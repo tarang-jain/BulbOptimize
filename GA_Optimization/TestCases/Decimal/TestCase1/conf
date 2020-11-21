@@ -1,0 +1,5 @@
+GridSize=10
+NumIter=100
+IntensityLim=20
+PenaltyStiffness=0.6
+power_conf="--p1=100 --p2=100 --p3=100"
